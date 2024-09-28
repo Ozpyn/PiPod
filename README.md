@@ -8,6 +8,13 @@ Use the Chassis and buttons from an iPod classic as a base.
 
 While the purpose of the project is to bring dead iPods back to the land of the living; there exists custom chassis' and buttons on markets such as AliExpress or Ebay.
 
+You will need these from either a dead iPod or from AliExpress:
+- Faceplate
+- Back Housing
+- Scroll wheel
+- Headphone jack
+- Battery (Maybe)
+
 ### Why only the classic?
 Every other iPod model is simply too compact to fit anything other than original hardware without significant R & D.
 
@@ -36,3 +43,5 @@ Leaving the possibilities to the Pi Zeros and compute modules.
 One more point to consider is battery life.
 
 The pi zero series has proven to use less power, is the smallest in the lineup, and has easily swapable storage. Making it our winner.
+
+However, more recently, a smaller and relatively power efficient has surfaced: the Raspberry Pi CM4. Using the CM$ will allow potential usage of a thin chassis.
