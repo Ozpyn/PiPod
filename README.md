@@ -1,6 +1,13 @@
 # PiPod
 "Upgrading" an Apple iPod Classic using Raspberry Pi internals
 
+## Looking for help
+This project is currently seeking help for the following:
+- Finding a 2 inch 5:4 display for 1,2,3, and 4th gen ipods
+- PCB design; the PCB must take in the appropriate connections and allow for the choesen pi to connect (Look up the cm4 lego style connector). Do not worry about size yet, first we need everything to work. Once everything works, the pcb will be resized to fit into the ipod chassis.
+- 3D Design; printing parts such that the PCB designed can be mounted to the faceplate, also dsigning a dock surround for the usb c port.
+
+
 ## Project Parameters
 Improving this [Project](https://hackaday.com/2021/01/27/raspberry-pi-zero-powers-spotify-streaming-ipod/)
 
@@ -19,7 +26,7 @@ You will need these from either a dead iPod or from AliExpress:
 Every other iPod model is simply too compact to fit anything other than original hardware without significant R & D.
 
 ### What about screens?
-While I would love to keep the original screen, I understand that this is about a 20 year old component at this point and may not be completely compatible with the pi sbc. Which is why I've begun looking into possible display replacements / upgrades. Displays using OLED or AMOLED technology would likely be the best option because of the low power draw.
+While I would love to keep the original screen, I understand that this is about a 20 year old component at this point and may not be completely compatible with the pi sbc. Which is why I've begun looking into possible display replacements / upgrades. Displays using OLED or AMOLED technology would likely be the best option because of the low power draw (and greater color clarity).
 
 It should be noted that the actual display size for the models are as follows:
 
